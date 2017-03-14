@@ -1,1 +1,2 @@
 # Chicago-Restaurant-Health-Inspection
+The goal of this project is to use logistic and stepwise regression to predict the probability of passing rates of restaurants under health inspections in Chicago, IL. It would provide the city with a more efficient way to allocate limited health inspectors so that restaurants with low passing rate could get caught. Data used in this project are from the Open Data Portal of City of Chicago.
